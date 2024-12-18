@@ -32,7 +32,7 @@ AI毕设管家是一款专为计算机专业学生打造的智能毕业设计辅
 ![网站首页](https://github.com/user-attachments/assets/27c035c3-4487-4fa0-97e4-9261e4fe1688)
 *AI毕设管家首页*
 
-![b](数据库表结构tps://github.com/user-attachments/assets/8ddbba73-6424-4b3e-bd39-255aae79ebed)
+![数据库表结构](https://github.com/user-attachments/assets/8ddbba73-6424-4b3e-bd39-255aae79ebed)
 *数据库表结构展示*
 
 ![单表ER图](https://github.com/user-attachments/assets/62d91146-b145-424c-90b7-6596e68a377b)
