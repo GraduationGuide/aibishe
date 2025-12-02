@@ -1,6 +1,6 @@
 # 🎓 AI毕设管家 - 智能毕业设计全能辅助工具
 
-<div align="center">
+<div align="left">
 
 [![GitHub stars](https://img.shields.io/github/stars/GraduationGuide/bishegj?style=social)](https://github.com/GraduationGuide/bishegj/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/GraduationGuide/bishegj?style=social)](https://github.com/GraduationGuide/bishegj/network/members)
