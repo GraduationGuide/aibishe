@@ -2,8 +2,6 @@
 
 <div align="left">
 
-[![在线体验](https://img.shields.io/badge/在线体验-ai.mtycode.com-blue)](https://ai.mtycode.com)
-
 **AI驱动的毕业设计智能助手 | 一站式解决文档生成、图表设计、测试数据生成等难题**
 
 [🚀 在线体验](https://ai.mtycode.com)
