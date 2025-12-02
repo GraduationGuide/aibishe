@@ -2,9 +2,9 @@
 
 <div align="left">
 
-[![GitHub stars](https://img.shields.io/github/stars/GraduationGuide/bishegj?style=social)](https://github.com/GraduationGuide/bishegj/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/GraduationGuide/bishegj?style=social)](https://github.com/GraduationGuide/bishegj/network/members)
-[![GitHub license](https://img.shields.io/github/license/GraduationGuide/bishegj)](https://github.com/GraduationGuide/bishegj/blob/main/LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/GraduationGuide/bishegj?style=social)](https://github.com/GraduationGuide/aibishe/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/GraduationGuide/bishegj?style=social)](https://github.com/GraduationGuide/aibishe/network/members)
+[![GitHub license](https://img.shields.io/github/license/GraduationGuide/bishegj)](https://github.com/GraduationGuide/aibishe/blob/main/LICENSE)
 [![在线体验](https://img.shields.io/badge/在线体验-ai.mtycode.com-blue)](https://ai.mtycode.com)
 
 **AI驱动的毕业设计智能助手 | 一站式解决文档生成、图表设计、测试数据生成等难题**
